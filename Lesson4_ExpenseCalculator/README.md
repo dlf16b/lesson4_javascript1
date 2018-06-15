@@ -4,22 +4,23 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+16 June 2018
 
 ### Student Name:  
-(First and Last Name)
+Diego Faverio
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment was to add code into he monthly expense calculator to determine the percentage of usage in regards to everyday living. We hadded different categories that would be calculated.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://dlf16b.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Referencing elements on a web page using the getElementById method as seen in the expense calculator.
+2. Declare, initialize, modify and display variables.
+3. Associate an event with an HTML element and define an event handler, which is the code
+that will respond to that specific event on the specific element.
+
 
 
 
